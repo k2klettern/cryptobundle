@@ -1,0 +1,30 @@
+{
+  "name" : "k2klettern/cryptobundle",
+  "description" : "Crypt and Decrypt data with passphrase",
+  "type" : "symfony-bundle",
+  "authors" : [{
+    "name" : "crypto",
+    "email" : "eric@zeidan.es"
+  }],
+  "keywords" : [
+    "Crypto Bundle"
+  ],
+  "license" : [
+    "MIT"
+  ],
+  "require" : {
+  },
+  "autoload" : {
+    "psr-0" : {
+      "K2klettern\\CryptoBundle" : ""
+    }
+  },
+  "target-dir" : "K2klettern/CryptoBundle",
+  "repositories" : [{
+  }],
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "1.0.x-dev"
+    }
+  }
+}
