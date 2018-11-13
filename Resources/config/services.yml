@@ -1,0 +1,4 @@
+services:
+#    crypto.example:
+#        class: K2klettern\CryptoBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
